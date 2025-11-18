@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Dryss/Dryss10/blob/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+  <img src="https://github.com/Dryss10/Dryss10/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
 
 <div>
