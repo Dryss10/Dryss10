@@ -6,9 +6,9 @@
   <img src="https://github.com/Dryss10/Dryss10/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dryss10&show_icons=true&theme=synthwave" width=46% />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dryss10à&theme=synthwave" width=49% />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Dryss10à&theme=synthwave" width=49% /> -->
 
 </div>
 
