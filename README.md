@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+erwan;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Dryss;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/Dryss10/Dryss10/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="https://github.com/Dryss/Dryss10/blob/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </div>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Dryss10&show_icons=true&theme=synthwave" width=46% />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dryss10&theme=synthwave" width=49% />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dryss10à&theme=synthwave" width=49% />
 
 </div>
 
