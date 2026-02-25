@@ -1,16 +1,33 @@
+<p align="center">
+  <img src="https://profile-counter.deno.dev/Dryss10/count.svg" alt="Profile Counter" />
+</p>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Dryss;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Dryss;Full+Stack+Developer;Always+learning+new+things;Open+to+collaboration;Building+cool+stuff+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+## Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dryss10/Dryss10/main/profile-3d-contrib/profile-night-view.svg?v=1" alt="3D Contribution Graph" />
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dryss10/Dryss10/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=bash,js,ts,react,nodejs,python&perline=8" alt="Tech Stack Icons" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/Dryss10/Dryss10/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,postgres,git,github,linux,vscode&perline=8" alt="Tech Stack Icons" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dryss10&show_icons=true&theme=synthwave" width=46% />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Dryss10à&theme=synthwave" width=49% /> -->
-
-</div>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 🤝 Connect with Me
 
@@ -18,14 +35,7 @@
   <a href="https://github.com/Dryss10" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dryss10&style=for-the-badge&color=blue" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+reach+out!" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/dryss10/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
