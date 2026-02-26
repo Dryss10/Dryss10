@@ -19,11 +19,11 @@
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bash,js,ts,react,nodejs,python&perline=8" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,react,js,nodejs,tailwind,postgres&perline=6" alt="Tech Stack Icons" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,postgres,git,github,linux,vscode&perline=8" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,figma,linux,vscode&perline=7" alt="Tech Stack Icons" />
 </div>
 
 <!--START_SECTION:activity-->
